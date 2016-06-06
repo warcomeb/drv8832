@@ -1,2 +1,2 @@
-# drv8832
-Driver for DRV8832 based on libohiboard
+# drv8838
+Driver for DRV8838 based on libohiboard
